@@ -1,3 +1,3 @@
 # Kokoa Clone 2022
 
-HTML CSS Study 
+HTML & CSS are so much fun! 
